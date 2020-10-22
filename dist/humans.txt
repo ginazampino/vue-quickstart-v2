@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Gina Zampino
+
+# THANKS
+
+    Jesse Hallam
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript
+    HTML5 Boilerplate, sanitize.css
+    Node.js, Express, Vue.js, Webpack, SCSS
